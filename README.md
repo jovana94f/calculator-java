@@ -1,9 +1,9 @@
 # Izveštaj o statičkoj analizi koda
 
 ## LOC metrike
-- **Start.java**: 28 linija
-- **Calculator.java**: 188 linija
-- **Ukupno**: 216 linija
+- **Start.java**: 19 linija
+- **Calculator.java**: 129 linija
+- **Ukupno**: 148 linija
 
 ## Zapažanja
 ### Start.java
